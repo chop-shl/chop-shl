@@ -21,19 +21,19 @@ description: "Welcome to the homepage of Your Lab Name at University Name."
       <div class="hero-visual">
         <div class="hero-stat-grid">
           <div class="hero-stat">
-            <div class="stat-number">12+</div>
+            <div class="stat-number">3</div>
             <div class="stat-label">Lab Members</div>
           </div>
           <div class="hero-stat">
-            <div class="stat-number">80+</div>
+            <div class="stat-number">5+</div>
             <div class="stat-label">Publications</div>
           </div>
           <div class="hero-stat">
-            <div class="stat-number">5</div>
+            <div class="stat-number">1</div>
             <div class="stat-label">Active Grants</div>
           </div>
           <div class="hero-stat">
-            <div class="stat-number">2015</div>
+            <div class="stat-number">2022</div>
             <div class="stat-label">Founded</div>
           </div>
         </div>
@@ -48,7 +48,7 @@ description: "Welcome to the homepage of Your Lab Name at University Name."
     <div class="section-header reveal">
       <p class="section-eyebrow">What We Do</p>
       <h2 class="section-title">Research Focus Areas</h2>
-      <p class="section-subtitle">Our lab investigates fundamental questions in [your field], combining experimental and computational approaches.</p>
+      <p class="section-subtitle">Our lab investigates the intersection of place & health. We believe that understanding the spatial context in which people live and develop is critical for informed healthcare delivery. We specialize in leveraging GIS and spatial computing to enrich patient data and provide research support. </p>
     </div>
 
     <div class="research-grid">
@@ -57,8 +57,8 @@ description: "Welcome to the homepage of Your Lab Name at University Name."
           <circle cx="24" cy="24" r="20"/>
           <path d="M24 14v10l6 4"/>
         </svg>
-        <span class="research-card-tag">Core Theme 1</span>
-        <h3>Research Area One</h3>
+        <span class="research-card-tag">Spatial Computing</span>
+        <h3>HIPAA-Compliant Route Estimation</h3>
         <p>Brief description of this research thrust. What questions do you explore? What methods do you use?</p>
         <div class="research-card-footer">
           <a href="{{ '/research/#area-one' | relative_url }}" class="btn btn-ghost btn-sm">Learn more →</a>
@@ -72,8 +72,8 @@ description: "Welcome to the homepage of Your Lab Name at University Name."
           <rect x="8" y="26" width="14" height="14" rx="2"/>
           <rect x="26" y="26" width="14" height="14" rx="2"/>
         </svg>
-        <span class="research-card-tag">Core Theme 2</span>
-        <h3>Research Area Two</h3>
+        <span class="research-card-tag">Population Health</span>
+        <h3>Creating Insights for Policy Stakeholders</h3>
         <p>Description of second research area. Connect it to real-world impact and open problems in the field.</p>
         <div class="research-card-footer">
           <a href="{{ '/research/#area-two' | relative_url }}" class="btn btn-ghost btn-sm">Learn more →</a>
@@ -85,8 +85,8 @@ description: "Welcome to the homepage of Your Lab Name at University Name."
           <path d="M24 4L44 40H4z"/>
           <path d="M24 20v12M20 36h8"/>
         </svg>
-        <span class="research-card-tag">Core Theme 3</span>
-        <h3>Research Area Three</h3>
+        <span class="research-card-tag">EHR Integration</span>
+        <h3>Linking EHR Records to Areal Indicators of Health</h3>
         <p>Description of a third research theme. Keep these concise and compelling — one punchy paragraph.</p>
         <div class="research-card-footer">
           <a href="{{ '/research/#area-three' | relative_url }}" class="btn btn-ghost btn-sm">Learn more →</a>
