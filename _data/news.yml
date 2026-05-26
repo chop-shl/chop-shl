@@ -3,13 +3,8 @@
 # =============================================================================
 
 - date: "May 2026"
-  text: "Welcome to our new lab website! We're excited to share our research with the community."
-
-- date: "Apr 2026"
-  text: "New paper accepted to <em>Journal Name</em>. Congratulations to the whole team!"
+  text: "Alicia and Andy present their transit work at the CHOP Research Symposium!"
 
 - date: "Mar 2026"
-  text: "PhD student [Name] received the [Fellowship Name]. Congratulations!"
+  text: "Alicia was awarded a fellowship through the Social Determinants of Health & Place consortium!"
 
-- date: "Jan 2026"
-  text: "We're hiring! See the <a href='/contact/'>Contact page</a> for open positions in the lab."
